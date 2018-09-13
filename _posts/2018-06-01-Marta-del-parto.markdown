@@ -1,24 +1,20 @@
 ---
-layout:     post
-title:      Marta del parto
-author:     Marta Smaldone
-tags: 		video audio transmedia
-subtitle:  	
-category:   project
+author: Marta Smaldone
+type: vimeo
+vimeo-embed: <iframe src="https://player.vimeo.com/video/273497960" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+title: Marta del Parto
+homedisplay: iframe
+tags: [video, iframe]
+category: [video][transmedia]
 ---
-<!-- Start Writing Below in Markdown -->
-
-<iframe src="https://player.vimeo.com/video/273497960" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
+La Memoria si fa carne
 
-
-
-
-
-
-
-
-
-
-
+``` yml
+---
+type: vimeo
+vimeo-embed: <iframe src="//player.vimeo.com/video/118589137" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+homedisplay: iframe
+---
+```
