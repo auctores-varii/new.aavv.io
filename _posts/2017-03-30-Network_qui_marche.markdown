@@ -1,15 +1,11 @@
 ---
-layout:     post
-title:      Network qui marche
-author:     Aa.Vv.
-tags: 		power art network audio
-subtitle:   the role of art in the face of a power that has become invisible and acephalous
-category:   general
-
-notebookfilename: intro
-visualworkflow: true
+author: Aa.Vv
+layout: post_full
+title: Network qui marche
+featimg: networkmarche.jpg
+tags: [text]
+category: [standard]
 ---
-
 
 
 _A man with a head-network, gaunt and naked continues to advance._

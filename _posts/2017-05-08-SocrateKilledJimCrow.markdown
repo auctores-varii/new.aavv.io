@@ -1,27 +1,11 @@
 ---
-layout:     post
-title:      Socratekilledbyjimcrow
-author:     Le vin Mariani
-tags: 		video audio transmedia soundtrack
-subtitle:  	- Belgian Journal's soundtrack -
-category:  project_belgium
+author: levm
+type: audio
+audio-embed: <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/497796135&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+homedisplay: iframe
+title: Socrate killed by Jim Crown
+tags: [music, soundcloud]
+category: [audio]
 ---
-<!-- Start Writing Below in Markdown -->
 
-![fisherman](/img/fisherman.jpg){:style="float: left; margin-bottom: 50px;"}
-
-
-
-
-
-
-
-
-<iframe src="https://player.vimeo.com/video/219274698" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-
-
-
-
-
-
+- Belgian Journal's soundtrack -

@@ -1,11 +1,11 @@
 ---
-layout:     post
-title:      Why I found Aa.Vv.
-author:     Marta Smaldone
-tags: 		transmedia tech art network
-subtitle:  	born after inspiring talks and reflexions about art and tech
-category:  general
+author: Marta Smaldone
+title: Why I found Aa.Vv.
+featimg: logo.jpeg
+tags: [text]
+category: [standard]
 ---
+
 <!-- Start Writing Below in Markdown -->
 
 ![alt text](https://cdn-images-1.medium.com/max/800/1*ZNm3s64Lmp2h8J3u5zc6eg.jpeg "Logo Title Text 1")

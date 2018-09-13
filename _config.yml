@@ -1,5 +1,5 @@
-name: Twister
-description: a powerful jekyll theme
+name: Aa.Vv.
+description: Auctores Varii
 url: #place url
 gems: [jekyll-paginate]
 baseurl: #place folder name if site is served in subfolder
@@ -12,14 +12,11 @@ author_dir: /author
 author_title_prefix: 'Posted by '
 media_folder: /img
 author_default_avatar: /profile-pic.jpg
-tumblr: "#"
-pinterest: "#"
 instagram: "#"
 twitter: "#"
 facebook: "#"
-youtube: "#"
-vimeo: "#"
-soundcloud: "#"
+vimeo: "https://vimeo.com/martasmaldone"
+soundcloud: "https://soundcloud.com/levm"
 
 encoding: utf-8
 defaults:

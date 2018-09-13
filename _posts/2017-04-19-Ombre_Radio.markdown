@@ -1,12 +1,12 @@
 ---
-layout:     post
-title:      Ombre Radio
-author:     levm
-tags: 		audio
-subtitle:  	Ombre Radio Descr
-
+author: levm
+layout: post_full
+type: image
+featimg: pola1.jpeg
+title: Ombreradio
+tags: [image]
+category: [image]
 ---
-<!-- Start Writing Below in Markdown -->
 
 
 

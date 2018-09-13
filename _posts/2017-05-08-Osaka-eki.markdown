@@ -5,17 +5,9 @@ vimeo-embed: <iframe src="https://player.vimeo.com/video/219274698" width="640" 
 title: Ōsaka-eki
 homedisplay: iframe
 tags: [video, iframe]
-category: [video][transmedia]
+category: [video]
 ---
 
-![fisherman](/img/fisherman.jpg){:style="float: left; margin-bottom: 50px;"}
 
-Snippet of larger project on Japan
 
-``` yml
----
-type: vimeo
-vimeo-embed: <iframe src="//player.vimeo.com/video/118589137" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-homedisplay: iframe
----
-```
+
