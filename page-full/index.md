@@ -1,12 +1,32 @@
 ---
 layout: page_full
-featimg: 6.jpg
-title: Page
+featimg: aavv-bg.jpg
+title: Members
 ---
-## This is a full-width static page
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit voluptatibus, assumenda perspiciatis vel eos, molestias nisi cum accusantium commodi amet modi repellendus. Nostrum iure fugiat ducimus quae nesciunt distinctio ullam.
+The team is composed by
 
-Modi consequuntur, ex, quod optio perferendis delectus libero excepturi recusandae, odio earum consectetur obcaecati repellat atque natus dignissimos quidem laboriosam nisi est? Hic ex ullam aspernatur perferendis doloremque odit eius nostrum cumque repudiandae sapiente culpa voluptate qui quasi, nulla dolorum facilis ab.
 
-Excepturi atque fuga illum fugiat consequatur, obcaecati, quaerat voluptatibus! Consequuntur ut dolore impedit magni officiis a voluptatibus odio, assumenda obcaecati illo reprehenderit veniam totam dolorem optio iure eius corporis aspernatur inventore quia perspiciatis placeat ratione repellat! Voluptatem.
+# name: Marta Smaldone
+  role: Visual Artist
+  img: /img/icons/Afro.jpg
+  github: MartaSmaldone
+ # gplus: https://plus.google.com/+AhmetCecen-GPlus
+  bio:
+  url: http://www.martasmaldone.com/
+  visible: true
+
+# name: Haran Negueruela
+  role: Historian / Reporter
+  img: /img/icons/MST3K_Mike.jpg
+ # github: davidbrough1
+  bio:
+  url: http://haran.aavv.io
+  visible: true
+
+# name: Le Vin Mariani
+  role: Audio & IT
+  img: /img/icons/iPod.jpg
+  bio:
+  url: http://ombreradio.aavv.io/
+  visible: true
