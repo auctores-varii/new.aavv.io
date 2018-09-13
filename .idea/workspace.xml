@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a94d6e94-a09f-4167-b78f-288f6b343068" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2016-04-30-Network_graph.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2016-05-18-Why_I_found_AaVv.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2017-03-30-Network_qui_marche.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2017-04-19-Ombre_Radio.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2017-05-08-Osaka-eki.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2017-05-08-levm-Areta-in-utero.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2017-05-08-levm-Belgian-journal.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2017-05-08-levm-Osaka-eki.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2017-05-08-levm-il-dottore-della-peste.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2018-05-29-levm-Marta-del-parto.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2018-06-01-Marta-del-parto.markdown" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2053279030">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="markdown" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Markdown" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../current/www.aavv.io" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="24" />
+    <option name="width" value="797" />
+    <option name="height" value="813" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="new.aavv.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new" type="9c53a853:ProjectViewModuleGroupNode" />
+            </path>
+            <path>
+              <item name="new.aavv.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="aavv" type="9c53a853:ProjectViewModuleGroupNode" />
+            </path>
+            <path>
+              <item name="new.aavv.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="aavv" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="new.aavv.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="new.aavv.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="www" type="9c53a853:ProjectViewModuleGroupNode" />
+            </path>
+            <path>
+              <item name="new.aavv.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="www" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="aavv" type="9c53a853:ProjectViewModuleGroupNode" />
+            </path>
+            <path>
+              <item name="new.aavv.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="www" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="aavv" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="www.aavv.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="new.aavv.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="www" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="aavv" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="www.aavv.io" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+      <recent name="$PROJECT_DIR$/_posts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a94d6e94-a09f-4167-b78f-288f6b343068" name="Default Changelist" comment="" />
+      <created>1536830176861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536830176861</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="24" width="797" height="813" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.56688744" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Graph Database Console" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Graph Database" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_posts/2016-04-30-Network_graph.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
