@@ -1,5 +1,5 @@
 ---
-layout: page-full
+layout: page_full
 featimg: aavv-bg.jpg
 title: The team is composed by
 ----
