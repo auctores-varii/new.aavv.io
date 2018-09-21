@@ -1,32 +1,28 @@
 ---
 layout: page_full
 featimg: aavv-bg.jpg
-title: Members
+title: The team is composed by
 ---
 
-The team is composed by
+
 
 
 # name: Marta Smaldone
-  role: Visual Artist
-  img: /img/icons/Afro.jpg
+  Visual Artist
+  
   github: MartaSmaldone
- # gplus: https://plus.google.com/+AhmetCecen-GPlus
-  bio:
-  url: http://www.martasmaldone.com/
-  visible: true
+  
+  http://www.martasmaldone.com/
+  
 
 # name: Haran Negueruela
-  role: Historian / Reporter
-  img: /img/icons/MST3K_Mike.jpg
- # github: davidbrough1
-  bio:
-  url: http://haran.aavv.io
-  visible: true
+  Historian / Reporter
+  
+  http://haran.aavv.io
+ 
 
 # name: Le Vin Mariani
-  role: Audio & IT
-  img: /img/icons/iPod.jpg
-  bio:
-  url: http://ombreradio.aavv.io/
-  visible: true
+  Audio & IT
+  
+  http://ombreradio.aavv.io/
+  
