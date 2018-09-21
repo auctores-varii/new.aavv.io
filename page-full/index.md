@@ -1,32 +1,25 @@
 ---
-layout: page-full
+layout: page
 featimg: aavv-bg.jpg
 title: The team is composed by
-Marta Smaldone
-http://www.martasmaldone.com/
-
 ----
 
+Marta Smaldone
+Visual Artist
+http://www.martasmaldone.com/
+twitter: https://twitter.com/MartaSmaldone
+email: mas@aavv.io
+  
+--------------
+  
 
-
-  twitter: https://twitter.com/MartaSmaldone
-  Visual Artist
-  
-  github: MartaSmaldone
-  facebook: https://www.facebook.com/someone
-  twitter: https://twitter.com/MartaSmaldone
-  instagram: http://instagram.com/someone
-  email: mas@aavv.io
-  
-  http://www.martasmaldone.com/
-  
-  name: Haran Negueruela
+Haran Negueruela
   Historian / Reporter
   site: http://haran.aavv.io
  
-
-  name: Le Vin Mariani
+------------
+Le Vin Mariani
   Audio & IT
   
-  http://ombreradio.aavv.io/
+http://ombreradio.aavv.io/
   
