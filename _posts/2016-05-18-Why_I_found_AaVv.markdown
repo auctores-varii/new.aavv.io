@@ -1,5 +1,5 @@
 ---
-author: Marta Smaldone
+author: "Marta Smaldone"
 title: Why I found Aa.Vv.
 featimg: logo.jpeg
 tags: [text]

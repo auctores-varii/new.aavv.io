@@ -1,5 +1,5 @@
 ---
-author: Aa.Vv
+author: aavv.io
 layout: post_full
 title: Network qui marche
 featimg: networkmarche.jpg
