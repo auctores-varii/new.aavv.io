@@ -2,7 +2,7 @@
 author: haran
 layout: post
 title: 100 years since the October Revolution. How Russia has changed?
-featimg: Kropotkin-and-womens-emancipation.jpg
+#featimg: Kropotkin-and-womens-emancipation.jpg
 tags: [text]
 category: [journalism]
 ---
