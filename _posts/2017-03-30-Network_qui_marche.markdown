@@ -24,9 +24,6 @@ The power related to sound/noise now is a reminiscent of precision mechanisms, p
 
 
 
-![network qui marche]({{site.baseurl}}/img/networkmarche.jpg)
-
-
 
 
 <p style="color:green">French version </p>
