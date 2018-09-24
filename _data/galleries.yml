@@ -1,7 +1,7 @@
 - id: gallery
   imagefolder: /img/galleries/ohnetitel
   images:
-  - filename: ohne1.ong
+  - filename: ohne1.png
     alttext: Ohne1
   - filename: ohne2.jpg
     alttext: Ohne2
