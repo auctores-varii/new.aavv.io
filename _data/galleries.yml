@@ -1,9 +1,17 @@
 - id: gallery
   imagefolder: /img/galleries/ohnetitel
   images:
-  - filename: ohne1.png
+  - filename: ohne1.jpg
     alttext: Ohne1
   - filename: ohne2.jpg
     alttext: Ohne2
   - filename: ohne3.jpg
     alttext: Ohne3
+  - filename: ohne6.jpg
+    alttext: Ohne6
+  - filename: ohne9.jpg
+    alttext: Ohne9
+  - filename: ohne11.jpg
+    alttext: Ohne11
+  - filename: ohne12.jpg
+    alttext: Ohne12
