@@ -1,13 +1,20 @@
 -
-  id: marta
-  name: Marta Smaldone
-  avatar: /profile-pic.jpg
-  bio: this is some more information about the author.
-  facebook: https://www.facebook.com/someone
-  twitter: https://twitter.com/someone
-  instagram: http://instagram.com/someone
-  email: someone@something.com
+  id: aavv.io
+  avatar: /aavv.jpg
+  bio: general communications
 -
   id: levm
+  name: Le vin Mariani
+  avatar: /ohne2.jpg
+  bio: Audio & IT
+  email: anv@aavv.io
+-
+  id: haran
+  name: Haran Negueruela
   avatar: /profile-pic.jpg
-  bio: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id, quidem.
+  bio: Historian / Reporter
+-
+  id: marta-smaldone
+  name: Marta Smaldone
+  avatar: /pola1.jpg
+  bio: Visual Artist

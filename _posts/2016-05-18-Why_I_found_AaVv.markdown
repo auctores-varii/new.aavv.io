@@ -1,5 +1,5 @@
 ---
-author: Marta Smaldone
+author: "Marta Smaldone"
 title: Why I found Aa.Vv.
 featimg: logo.jpeg
 tags: [text]
@@ -8,7 +8,6 @@ category: [standard]
 
 <!-- Start Writing Below in Markdown -->
 
-![alt text](https://cdn-images-1.medium.com/max/800/1*ZNm3s64Lmp2h8J3u5zc6eg.jpeg "Logo Title Text 1")
 
 **My first interest is the Image.**
 
@@ -33,8 +32,6 @@ I mean a kind of experience that anyone unconnected with that medium can share, 
 
 
 
-![alt text](https://cdn-images-1.medium.com/max/800/1*9CQ1vCjkCRqm_EwvGRE-Fw.png "Logo Title Text 1")
-
 
 
 ---
@@ -42,4 +39,5 @@ I mean a kind of experience that anyone unconnected with that medium can share, 
 _The acronym **Aa.Vv.** is the latin expression Autores Varii, various authors. Aa.Vv. is followed by .io domain extension, the result is the italian word ‘avvio’, which means start._
 
 
-[Original Post in Medium](https://ablog.aavv.io/why-i-found-aa-vv-cd6c35d94c70)
+<a href="https://ablog.aavv.io/why-i-found-aa-vv-cd6c35d94c70)"> Original Post in Medium </a>
+[](
