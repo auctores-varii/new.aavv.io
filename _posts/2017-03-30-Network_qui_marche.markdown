@@ -10,7 +10,7 @@ category: [standard]
 
 _A man with a head-network, gaunt and naked continues to advance._
 
-The network is the image of the power as it appears today in the globalized and connected world: no longer a throne or a pyramid, which protects and commands, but a network which frame of which includes and excludes.
+The network is the image of the power as it appears today in the globalized and connected world: no longer a throne or a pyramid, which protects and commands, but a network which frame includes and excludes.
 A power determined by the strength of its knots with a horizontal and unrestricted weft. Reflections arise from the role of art in the face of a power that has become invisible and acephalous.
 One can not understand art, whitin its most intimate and deep dimension, without understanding its links with power.
 
@@ -22,9 +22,6 @@ _The drawings are coming alive with a background noise, a buzz._
 
 The power related to sound/noise now is a reminiscent of precision mechanisms, pointers to get the lock (a click with minimal vibration), lenses that reach fire, mice and mechanical objects in support of the simulators, power systems and computer representations. A minimalist sound ambiance close to the silence and in fact, it is the buzz silence that best represents the current power, widespread but invisible, present and intangible, like that power that has Facebook or Instagram in executing a business strategy, or the impact of a operation of the evanescent financial market, a buzz, a modern trumpet-ear.
 
-
-
-![network qui marche]({{site.baseurl}}/img/networkmarche.jpg)
 
 
 
