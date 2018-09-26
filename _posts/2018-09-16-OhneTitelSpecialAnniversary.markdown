@@ -62,7 +62,7 @@ The noise of each Sunday merge,  bird voice become squicky, waters become obsess
 > " Have you finished? have not heard anything." 
 > "sure? well me neither.
 
-a perfect tree augmented reality.
+just tree augmented reality.
 
   
   
@@ -85,16 +85,14 @@ TBD
 
 
 
-##### Ohne Titel Show - Radio Panik 
+##### something about the Ohne Titel Show - Radio Panik 
   
   
   
 _Émission radio sur l’art contemporain indépendant et alternatif à Bruxelles
 Un art sans titre de noblesse ni de propriété pour et par ceux qui n'ont aucun titre académique dans le domaine._
   
-  
-    
-    
+ 
     
 
 - <a href="http://www.radiopanik.org/emissions/ohne-titel/ohne-titel-goes-public-special-anniversary-/">Ohne Titel Goes Public"</a>
