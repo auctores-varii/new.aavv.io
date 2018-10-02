@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a94d6e94-a09f-4167-b78f-288f6b343068" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2018-09-21-RadioPanik_OhneTitel.markdown" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-05-08-Osaka-eki.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-05-08-Osaka-eki.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-05-08-levm-Areta-in-utero.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-05-08-In-utero.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-05-08-levm-Belgian-journal.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-05-08-SocrateKilledJimCrow.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-05-08-levm-Osaka-eki.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-05-08-Treccie.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-05-08-levm-il-dottore-della-peste.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-05-08-il-dottore-della-peste.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-05-29-levm-Marta-del-parto.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-05-29-Ascolta.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-06-01-Marta-del-parto.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-06-01-Marta-del-parto.markdown" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,9 +41,19 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1975479080">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2017-05-08-Osaka-eki.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
@@ -69,7 +73,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor>
-                <caret lean-forward="true" selection-end-line="17" selection-end-column="3" />
+                <caret selection-end-line="17" selection-end-column="3" />
               </first_editor>
               <second_editor>
                 <js_state />
@@ -118,8 +122,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2015-02-05-standard-full.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="225">
-                <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+              <first_editor relative-caret-position="180">
+                <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
               </first_editor>
               <second_editor>
                 <js_state />
@@ -191,9 +195,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="798" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -201,58 +206,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="new.aavv.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="new" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="www.aavv.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="www.aavv.io" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="new.aavv.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="new" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="aavv" type="9c53a853:ProjectViewModuleGroupNode" />
+              <item name="www.aavv.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="www.aavv.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="new.aavv.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="new" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="aavv" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="new.aavv.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="new.aavv.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="new" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="aavv" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="new.aavv.io" type="462c0819:PsiDirectoryNode" />
+              <item name="www.aavv.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="www.aavv.io" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="new.aavv.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="www" type="9c53a853:ProjectViewModuleGroupNode" />
-            </path>
-            <path>
-              <item name="new.aavv.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="www" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="aavv" type="9c53a853:ProjectViewModuleGroupNode" />
-            </path>
-            <path>
-              <item name="new.aavv.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="www" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="aavv" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="www.aavv.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="new.aavv.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="www" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="aavv" type="9c53a853:ProjectViewModuleGroupNode" />
-              <item name="www.aavv.io" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -260,8 +235,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -290,17 +265,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="801" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34406295" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26323318" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Graph Database Console" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -308,10 +277,15 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Graph Database" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Graph Database Console" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Graph Database" order="3" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -352,30 +326,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-05-08-il-dottore-della-peste.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2017-05-08-Osaka-eki.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-05-08-In-utero.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-05-08-SocrateKilledJimCrow.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor>
+            <caret selection-end-line="21" />
+          </first_editor>
           <second_editor>
             <js_state />
           </second_editor>
@@ -386,7 +342,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor>
-            <caret lean-forward="true" selection-end-line="17" selection-end-column="3" />
+            <caret selection-end-line="17" selection-end-column="3" />
           </first_editor>
           <second_editor>
             <js_state />
@@ -398,18 +354,6 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor />
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-05-08-Osaka-eki.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="21" />
-          </first_editor>
           <second_editor>
             <js_state />
           </second_editor>
@@ -446,11 +390,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-05-08-il-dottore-della-peste.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-05-08-SocrateKilledJimCrow.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-05-08-In-utero.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-02-05-standard-full.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="225">
-            <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+          <first_editor relative-caret-position="180">
+            <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
           </first_editor>
           <second_editor>
             <js_state />
