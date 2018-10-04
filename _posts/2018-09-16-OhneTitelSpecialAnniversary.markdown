@@ -8,8 +8,7 @@ gallery-id: gallery
 tags: [music, soundcloud]
 category: [audio, text]
 ---
-#### <strong class="markup--strong markup--h4-strong">A semi-serious reflection of an event/incident</strong> {#56bc.graf--h4.graf-after--figure}
-
+<strong class="markup--strong markup--h4-strong">A semi-serious reflection of an event/incident</strong> 
 ---
 
 <p class="graf--p graf-after--h4">
@@ -55,8 +54,6 @@ The noise of each Sunday merge,  bird voice become squicky, waters become obsess
 <i>just tree augmented reality.<i>
 
 
-
-<hr>
 
   
   
