@@ -6,13 +6,13 @@ type: gallery
 featimg: ohne2.jpg
 gallery-id: gallery
 tags: [music, soundcloud]
-category: [audio]
+category: [audio, text]
 ---
 ## **A semi-serious reflection of an event/incident**
 
 ---
 
-I was looking at recording and reproducing the sounds of the Salix; within his context. A conversation listening to the tree and telling about its roots. 
+<p>I was looking at recording and reproducing the sounds of the Salix; within his context. A conversation listening to the tree and telling about its roots. 
 
 I ended up imaging the soundscape/picture of a similar Sunday morning, with the tree and families.
 
@@ -26,7 +26,7 @@ Little I knew about how much I'd be blending in the soundscape.
    
    
     
-It is fun to think how an accident can be possible be giving some inspirations. ~~Or rework backwards artistic intentions.~~
+It is fun to think how an accident can be possible be giving some inspirations. ~~Or rework backwards artistic intentions.~~</p>
 
 
 
@@ -38,12 +38,12 @@ To setup a conversation with the tree, one need to get to known his sounds, of h
 I blended in the woods.
   
   
-The performance started, anonymous, undetectable
+The performance started, anonymous, undetectable.
 
 
 
 
-A silent conversation, without anyone noticing it. Even me! a so silent conversation I had trouble to detect.
+<p>A silent conversation, without anyone noticing it. Even me! a so silent conversation I had trouble to detect.
 
 The noise of each Sunday merge,  bird voice become squicky, waters become obsessives.
 
@@ -51,12 +51,15 @@ The noise of each Sunday merge,  bird voice become squicky, waters become obsess
 > " Have you finished? have not heard anything." 
 
 
-just tree augmented reality.
+<i>just tree augmented reality.</i></p>
 
   
   
   
 ---
+
+
+
 <p>
 The broadcast - the performance at the radio
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/508501938&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
