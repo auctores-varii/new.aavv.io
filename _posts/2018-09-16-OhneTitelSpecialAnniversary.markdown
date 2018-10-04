@@ -35,12 +35,11 @@ It is fun to think how an accident can be possible be giving some inspirations. 
 
 To setup a conversation with the tree, one need to get to known his sounds, of his soundscape, of his "rugosita".
   
-  
-  
+
 I blended in the woods.
   
   
-The performance started, anonymous, undetectables 
+The performance started, anonymous, undetectable
 
 
 
@@ -50,17 +49,8 @@ A silent conversation, without anyone noticing it. Even me! a so silent conversa
 The noise of each Sunday merge,  bird voice become squicky, waters become obsessives.
 
 
-
-
-
-  
-  
-  
-  
-
-
 > " Have you finished? have not heard anything." 
-> "sure? well me neither.
+
 
 just tree augmented reality.
 
@@ -68,15 +58,16 @@ just tree augmented reality.
   
   
 ---
-
 <p>
-Pre-flight - some tests before the performance
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/504674004&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-Flight - the performance field records 
+The broadcast - the performance at the radio
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/508501938&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+The performance field records - Tree Augmented reality
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/504676224&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
-Landing - the performance at the radio
-TBD
+Pre-flight - some tests before the performance
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/504674004&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
 </p>
   
   
