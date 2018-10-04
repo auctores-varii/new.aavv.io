@@ -82,12 +82,12 @@ Pre-flight - some tests before the performance
 
 
 
-##### something about the Ohne Titel Show - Radio Panik 
+<p><em>##### something about the Ohne Titel Show - Radio Panik 
   
   
   
 _Émission radio sur l’art contemporain indépendant et alternatif à Bruxelles
-Un art sans titre de noblesse ni de propriété pour et par ceux qui n'ont aucun titre académique dans le domaine._
+Un art sans titre de noblesse ni de propriété pour et par ceux qui n'ont aucun titre académique dans le domaine._</p></em>
   
  
     
