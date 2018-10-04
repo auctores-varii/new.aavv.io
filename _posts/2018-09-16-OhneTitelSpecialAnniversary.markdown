@@ -12,9 +12,9 @@ category: [audio, text]
 
 ---
 
-<p>I was looking at recording and reproducing the sounds of the Salix; within his context. A conversation listening to the tree and telling about its roots. 
+I was looking at recording and reproducing the sounds of the Salix; within his context. A conversation listening to the tree and telling about its roots. 
 
-I ended up imaging the soundscape/picture of a similar Sunday morning, with the tree and families.
+I ended up imaging the soundscape/picture of a similar Sunday morning, with the tree and families.<br>
 
   
   
@@ -26,7 +26,7 @@ Little I knew about how much I'd be blending in the soundscape.
    
    
     
-It is fun to think how an accident can be possible be giving some inspirations. ~~Or rework backwards artistic intentions.~~</p>
+It is fun to think how an accident can be possible be giving some inspirations. ~~Or rework backwards artistic intentions.~~
 
 
 
@@ -43,7 +43,7 @@ The performance started, anonymous, undetectable.
 
 
 
-<p>A silent conversation, without anyone noticing it. Even me! a so silent conversation I had trouble to detect.
+A silent conversation, without anyone noticing it. Even me! a so silent conversation I had trouble to detect.
 
 The noise of each Sunday merge,  bird voice become squicky, waters become obsessives.
 
@@ -51,7 +51,7 @@ The noise of each Sunday merge,  bird voice become squicky, waters become obsess
 > " Have you finished? have not heard anything." 
 
 
-<i>just tree augmented reality.</i></p>
+just tree augmented reality.
 
   
   
