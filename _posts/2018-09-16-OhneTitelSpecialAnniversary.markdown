@@ -48,10 +48,13 @@ A silent conversation, without anyone noticing it. Even me! a so silent conversa
 The noise of each Sunday merge,  bird voice become squicky, waters become obsessives.
 
 
-> " Have you finished? have not heard anything." 
+<blockquote id="d584" class="graf--pullquote pullquote graf-after--p"> 
+<p>Have you finished? have not heard anything." 
+</p>
+</blockquote>
 
 
-<i>just tree augmented reality.</i>
+<p id="5a21" class="graf--p graf-after--p"><i>just tree augmented reality.</i></p>
 
 
 
@@ -59,12 +62,10 @@ The noise of each Sunday merge,  bird voice become squicky, waters become obsess
 
   
   
-  
----
 
 
 
-<p>
+<p><em>
 The broadcast - the performance at the radio
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/508501938&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
@@ -74,8 +75,7 @@ The performance field records - Tree Augmented reality
 Pre-flight - some tests before the performance
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/504674004&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
-</p>
-  
+</p></em>
   
   
 
