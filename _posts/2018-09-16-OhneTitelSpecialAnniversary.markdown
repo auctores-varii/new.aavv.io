@@ -6,7 +6,7 @@ type: gallery
 featimg: ohne2.jpg
 gallery-id: gallery
 tags: [music, soundcloud]
-category: [audio, text]
+category: [audio]
 ---
 <strong class="markup--strong markup--h4-strong">A semi-serious reflection of an event/incident</strong> 
 ---
