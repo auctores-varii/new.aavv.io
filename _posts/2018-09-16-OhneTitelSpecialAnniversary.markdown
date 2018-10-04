@@ -3,7 +3,7 @@ author: levm
 title: Ohne Titel Goes Public - Tree Augmented reality?
 layout: post_full
 type: gallery
-featimg: ohne4.jpg
+featimg: ohne2.jpg
 gallery-id: gallery
 tags: [music, soundcloud]
 category: [audio]
