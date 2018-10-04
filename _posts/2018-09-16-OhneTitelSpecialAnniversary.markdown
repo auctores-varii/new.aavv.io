@@ -1,7 +1,7 @@
 ---
 author: levm
 title: Ohne Titel Goes Public - Tree Augmented reality?
-layout: post_full
+layout: post
 type: gallery
 featimg: ohne2.jpg
 gallery-id: gallery
@@ -30,7 +30,6 @@ It is fun to think how an accident can be possible be giving some inspirations. 
 
 
 
-{% include gallery_lightbox.html %}
 
 
 To setup a conversation with the tree, one need to get to known his sounds, of his soundscape, of his "rugosita".
