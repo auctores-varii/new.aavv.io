@@ -11,8 +11,8 @@ category: [audio, text]
 ## **A semi-serious reflection of an event/incident**
 
 ---
-
-I was looking at recording and reproducing the sounds of the Salix; within his context. A conversation listening to the tree and telling about its roots. 
+<p id="90eb" class="graf--p graf-after--p">
+I was looking at recording and reproducing the sounds of the Salix; within his context. A conversation listening to the tree and telling about its roots.</p> 
 
 I ended up imaging the soundscape/picture of a similar Sunday morning, with the tree and families.<br>
 
