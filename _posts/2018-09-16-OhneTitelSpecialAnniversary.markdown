@@ -8,12 +8,13 @@ gallery-id: gallery
 tags: [music, soundcloud]
 category: [audio, text]
 ---
-## **A semi-serious reflection of an event/incident**
+#### <strong class="markup--strong markup--h4-strong">A semi-serious reflection of an event/incident</strong> {#56bc.graf--h4.graf-after--figure}
 
 ---
-<p id="90eb" class="graf--p graf-after--p">
-I was looking at recording and reproducing the sounds of the Salix; within his context. A conversation listening to the tree and telling about its roots.</p> 
 
+<p class="graf--p graf-after--h4">
+I was looking at recording and reproducing the sounds of the Salix; within his context. A conversation listening to the tree and telling about its roots. 
+</p>
 I ended up imaging the soundscape/picture of a similar Sunday morning, with the tree and families.<br>
 
   
@@ -48,13 +49,10 @@ A silent conversation, without anyone noticing it. Even me! a so silent conversa
 The noise of each Sunday merge,  bird voice become squicky, waters become obsessives.
 
 
-<blockquote id="d584" class="graf--pullquote pullquote graf-after--p"> 
-<p>Have you finished? have not heard anything." 
-</p>
-</blockquote>
+> " Have you finished? have not heard anything." 
 
 
-<p id="5a21" class="graf--p graf-after--p"><i>just tree augmented reality.</i></p>
+<i>just tree augmented reality.<i>
 
 
 
@@ -62,10 +60,12 @@ The noise of each Sunday merge,  bird voice become squicky, waters become obsess
 
   
   
+  
+---
 
 
 
-<p><em>
+<p>
 The broadcast - the performance at the radio
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/508501938&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
@@ -75,19 +75,20 @@ The performance field records - Tree Augmented reality
 Pre-flight - some tests before the performance
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/504674004&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
-</p></em>
+</p>
   
   
+  
 
 
 
 
-<p><em>##### something about the Ohne Titel Show - Radio Panik 
+##### something about the Ohne Titel Show - Radio Panik 
   
   
   
 _Émission radio sur l’art contemporain indépendant et alternatif à Bruxelles
-Un art sans titre de noblesse ni de propriété pour et par ceux qui n'ont aucun titre académique dans le domaine._</p></em>
+Un art sans titre de noblesse ni de propriété pour et par ceux qui n'ont aucun titre académique dans le domaine._
   
  
     
