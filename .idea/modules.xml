@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/new.aavv.io.iml" filepath="$PROJECT_DIR$/.idea/new.aavv.io.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../twister-jekyll-theme/.idea/twister-jekyll-theme.iml" filepath="$PROJECT_DIR$/../twister-jekyll-theme/.idea/twister-jekyll-theme.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../current/www.aavv.io/.idea/www.aavv.io.iml" filepath="$PROJECT_DIR$/../../current/www.aavv.io/.idea/www.aavv.io.iml" />
     </modules>
   </component>
 </project>
