@@ -10,7 +10,9 @@ title: The team is composed by
 #  name: Marta Smaldone
   Visual Artist
   http://www.martasmaldone.com/
-  
+  twitter: https://twitter.com/martasmal
+  instagram: http://instagram.com/martasmal
+  email: mas@aavv.io
 
 # name: Haran Negueruela
   Historian / Reporter

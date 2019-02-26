@@ -1,10 +1,16 @@
 -
+  id: levm
   name: "Le vin Mariani"
   bio: "Audio and IT"
   email: anv@aavv.io
 -
+  id: haran
   name: "Haran Negueruela"
   bio: "Historian and Reporter"
 -
+  id: marta
   name: "Marta Smaldone"
   bio: "Visual Artist"
+  twitter: https://twitter.com/martasmal
+  instagram: http://instagram.com/martasmal
+  email: mas@aavv.io
